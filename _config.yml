@@ -24,12 +24,12 @@ repository               : "ooooooooooooooooooooooooooooooooooooo88/oooooooooooo
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Jing Yao"
+  pronouns         : she/her# example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Dalian, China"
   employer         : "Red Brick University"
-  uri              : # URL
+  uri              : https://ooooooooooooooooooooooooooooooooooooo88.github.io# URL
   email            : "none@example.org" 
 
   # Academic websites
