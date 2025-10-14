@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jing Yao"
-  pronouns         : she/her# example: "she/her"  
+  pronouns         : "she/her"# example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Dalian, China"
-  employer         : "Red Brick University"
+  employer         : "Dalian University of Technology"
   uri              : https://ooooooooooooooooooooooooooooooooooooo88.github.io# URL
-  email            : "none@example.org" 
+  email            : "yaojing@mail.dlut.edu.cn" 
 
   # Academic websites
   academia         : # URL
