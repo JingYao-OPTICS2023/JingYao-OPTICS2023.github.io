@@ -12,8 +12,10 @@ redirect_from:
 Education
 ======
 * M.S. in Instrument Science and Technology🔬, Dalian University of Technology, 2026 (expected)
+  * GPA：83/100
+  * Supervisor：Donghan Ma
 * B.S. in Robotics🤖, Beijing University of Chemical Technology, 2023
-
+  * GPA：87/100（TOP5-10%）
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
