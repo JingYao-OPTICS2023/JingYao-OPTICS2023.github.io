@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * M.S. in Instrument Science and Technology🔬, Dalian University of Technology, 2026 (expected)
   * GPA：83/100
@@ -17,24 +17,24 @@ Education
 * B.S. in Robotics🤖, Beijing University of Chemical Technology, 2023
   * GPA：87/100（TOP5-10%）
 
-Work experience
+WORK EXPERIENCE
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2022：
+  * Beijing University of Chemical Technology
+  * Duties includes： Wetlab
+  * Supervisor：Yue Feng
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: 
+  * Dalian University of Technology
+  * Duties included：
+  * Supervisor：Donghan Ma
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2024 - Present：
+  * Dalian University of Technology
+  * Duties included：
+  * Supervisor：Donghan Ma
   
-Skills
+SKILLS
 ======
 * Languages：English(high), Chinese(native)
 * Techical Skills：C++, Python, MATLAB, CAD, SOLIDWORKS, LabVIEW
