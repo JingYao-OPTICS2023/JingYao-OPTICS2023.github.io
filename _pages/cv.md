@@ -16,6 +16,7 @@ Education
   * Supervisor：Donghan Ma
 * B.S. in Robotics🤖, Beijing University of Chemical Technology, 2023
   * GPA：87/100（TOP5-10%）
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -36,7 +37,7 @@ Work experience
 Skills
 ======
 * Languages：English(high), Chinese(native)
-* Technical Skills：C++, Python, MATLAB, CAD, SolidWorks, LabView
+* Techical Skills：C++, Python, MATLAB, CAD, SOLIDWORKS, LabVIEW
 
 <!--
 Publications
