@@ -33,8 +33,8 @@ Work experience
   
 Skills
 ======
-* Languages： English(high), Chinese(native)
-* Technical Skills: C++, Python, MATLAB, CAD, SolidWorks, LabView
+* Languages：English(high), Chinese(native)
+* Technical Skills：C++, Python, MATLAB, CAD, SolidWorks, LabView
 
 <!--
 Publications
