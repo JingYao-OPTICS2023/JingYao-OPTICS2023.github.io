@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Optics, Dalian University of Technology, 2026 (expected)
 * B.S. in Robotics, Beijing University of Chemical Technology, 2023
 
