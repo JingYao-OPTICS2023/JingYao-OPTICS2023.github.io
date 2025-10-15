@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Optics, Dalian University of Technology, 2026 (expected)
-* B.S. in Robotics, Beijing University of Chemical Technology, 2023
+* M.S. in Instrument Science and Technology🔬, Dalian University of Technology, 2026 (expected)
+* B.S. in Robotics🤖, Beijing University of Chemical Technology, 2023
 
 Work experience
 ======
@@ -33,12 +33,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages： English(high), Chinese(native)
+* Technical Skills: C++, Python, MATLAB, CAD, SolidWorks, LabView
 
 <!--
 Publications
