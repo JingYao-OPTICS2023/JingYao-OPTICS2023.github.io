@@ -14,7 +14,7 @@ redirect_from:
 
 
 
-
+<!--
 EDUCATION
 ======
 * M.S. in Instrument Science and Technology🔬, Dalian University of Technology, 2026 (expected)
@@ -65,6 +65,7 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
+-->
 ======
 * Currently signed in to 43 different slack teams
 -->
