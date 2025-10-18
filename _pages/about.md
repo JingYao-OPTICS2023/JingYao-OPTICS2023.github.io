@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jing Yao's Personal Homepage "
+title: "Jing Yao's PORTFOLIO"
 author_profile: true
 redirect_from: 
   - /about/
