@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 [PROFECT 1：Construction of the Drift Correction Module in the STORM System](https://github.com)
-<center><img src='/images/LabVIEW_autofocus.png'><center>
+<center><img src='/images/LabVIEW_autofocus.png' width="353" height="503"><center>
